@@ -1,7 +1,7 @@
 {
   "name": "raker-league",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://shaifulshafian.github.io/raker-league",
   "dependencies": {
     "react": "^16.12.0",
