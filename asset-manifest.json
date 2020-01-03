@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/raker-league/static/css/main.aa954f5b.chunk.css",
+    "main.js": "/raker-league/static/js/main.b916d0ee.chunk.js",
+    "main.js.map": "/raker-league/static/js/main.b916d0ee.chunk.js.map",
+    "runtime-main.js": "/raker-league/static/js/runtime-main.3997d4ac.js",
+    "runtime-main.js.map": "/raker-league/static/js/runtime-main.3997d4ac.js.map",
+    "static/js/2.a8ac48ac.chunk.js": "/raker-league/static/js/2.a8ac48ac.chunk.js",
+    "static/js/2.a8ac48ac.chunk.js.map": "/raker-league/static/js/2.a8ac48ac.chunk.js.map",
+    "index.html": "/raker-league/index.html",
+    "precache-manifest.1ba46e50819e1b2b6331bdea89e37b31.js": "/raker-league/precache-manifest.1ba46e50819e1b2b6331bdea89e37b31.js",
+    "service-worker.js": "/raker-league/service-worker.js",
+    "static/css/main.aa954f5b.chunk.css.map": "/raker-league/static/css/main.aa954f5b.chunk.css.map",
+    "static/js/2.a8ac48ac.chunk.js.LICENSE": "/raker-league/static/js/2.a8ac48ac.chunk.js.LICENSE",
+    "static/media/Bundesliga.png": "/raker-league/static/media/Bundesliga.3e055fb4.png",
+    "static/media/Eredivisie.png": "/raker-league/static/media/Eredivisie.07239886.png",
+    "static/media/LaLiga.png": "/raker-league/static/media/LaLiga.2be24290.png",
+    "static/media/Ligue1.png": "/raker-league/static/media/Ligue1.4b2af31f.png",
+    "static/media/PremierLeague.png": "/raker-league/static/media/PremierLeague.2ea36f1c.png",
+    "static/media/SerieA.png": "/raker-league/static/media/SerieA.3ee74dc2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3997d4ac.js",
+    "static/js/2.a8ac48ac.chunk.js",
+    "static/css/main.aa954f5b.chunk.css",
+    "static/js/main.b916d0ee.chunk.js"
+  ]
+}
