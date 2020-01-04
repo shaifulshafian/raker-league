@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raker-league/precache-manifest.1ba46e50819e1b2b6331bdea89e37b31.js"
+  "/raker-league/precache-manifest.0eaf05bf1d3eee56ace42350a91af639.js"
 );
 
 self.addEventListener('message', (event) => {

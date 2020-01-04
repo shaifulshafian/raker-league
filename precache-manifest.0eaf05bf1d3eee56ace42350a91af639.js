@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7026028e5691b03ab6ebe524511654a6",
+    "revision": "66573d0a01fb3eed2bfdff896c1125b1",
     "url": "/raker-league/index.html"
   },
   {
-    "revision": "90d6bcb44a89c8aea812",
+    "revision": "2718651034032733cb76",
     "url": "/raker-league/static/css/main.aa954f5b.chunk.css"
   },
   {
-    "revision": "03c6b3f570017fc27183",
-    "url": "/raker-league/static/js/2.a8ac48ac.chunk.js"
+    "revision": "3b20fad383a2f841bc7f",
+    "url": "/raker-league/static/js/2.3a89a4d5.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/raker-league/static/js/2.a8ac48ac.chunk.js.LICENSE"
+    "url": "/raker-league/static/js/2.3a89a4d5.chunk.js.LICENSE"
   },
   {
-    "revision": "90d6bcb44a89c8aea812",
-    "url": "/raker-league/static/js/main.b916d0ee.chunk.js"
+    "revision": "2718651034032733cb76",
+    "url": "/raker-league/static/js/main.a879dd7d.chunk.js"
   },
   {
     "revision": "e0baa7cd3f3b5d65f6ff",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2ea36f1c21b081213f172410bba0355b",
     "url": "/raker-league/static/media/PremierLeague.2ea36f1c.png"
+  },
+  {
+    "revision": "b6c447a504565c7597534d63f1012feb",
+    "url": "/raker-league/static/media/RakerLeague.b6c447a5.jpg"
   },
   {
     "revision": "3ee74dc22ac21026487a24b49cf2ccfa",
